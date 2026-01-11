@@ -1,7 +1,9 @@
 streamlit
+tenacity<9
+llama-index-core
+llama-index-embeddings-huggingface
 transformers
-sentence-transformers
-faiss-cpu
-pdfplumber
-langchain
 torch
+sentence-transformers
+python-dotenv
+faiss-cpu
