@@ -1,0 +1,20 @@
+# Document Processing
+unstructured[all-docs]
+
+# Embeddings
+sentence-transformers
+
+# Vector Database
+chromadb
+
+# Evaluation
+ragas
+datasets
+
+# Data Processing
+pandas
+numpy
+
+# Jupyter (if needed)
+jupyter
+ipykernel
