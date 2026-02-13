@@ -1,9 +1,0 @@
-streamlit
-tenacity<9
-llama-index-core
-llama-index-embeddings-huggingface
-transformers
-torch
-sentence-transformers
-python-dotenv
-faiss-cpu
