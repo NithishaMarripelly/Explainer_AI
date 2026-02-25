@@ -1,34 +1,7 @@
-# Core RAG Framework
-langchain
-langchain-community
-langchain-core
-langchain-huggingface
-langchain-chroma
-langchain-ollama
-
-# Multi-modal Document Parsing
-unstructured[all-docs]
-unstructured-inference
-pdf2image
-pdfminer.six
-pikepdf
-pypdf
-pypdfium2
-
-# AI Models & Embeddings
-sentence-transformers
-transformers
-torch
-accelerate
-ollama
-
-# Retrieval & Evaluation
-rank_bm25
-ragas
-datasets
-pandas
-
-# Utilities
-python-dotenv
-tqdm
-ipykernel
+streamlit>=1.31.0
+groq>=0.4.0
+langchain-huggingface>=1.2.0
+langchain-chroma>=0.1.4
+langchain-core>=1.2.0
+sentence-transformers>=4.1.0
+chromadb>=0.4.0

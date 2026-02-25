@@ -1,1 +1,6 @@
-*.bin
+dbv1/
+chroma_db/
+.env
+__pycache__/
+venv/
+*.pyc
