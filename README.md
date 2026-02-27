@@ -575,32 +575,7 @@ If you use this project in your research or application, please cite:
 
 ---
 
-## 📧 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/multimodal-rag-pipeline/issues)
 
----
 
-## 🔮 Roadmap
 
-- [ ] Cloud deployment support (AWS/GCP/Azure)
-- [ ] RAGAS evaluation framework integration
-- [ ] Query expansion and multi-query retrieval
-- [ ] Support for additional document formats (DOCX, HTML)
-- [ ] REST API endpoint
-- [ ] Docker containerization
-- [ ] Batch processing mode
-- [ ] Web UI improvements
-
----
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/multimodal-rag-pipeline&type=Date)](https://star-history.com/#yourusername/multimodal-rag-pipeline&Date)
-
----
-
-**Built with ❤️ for production AI systems**
