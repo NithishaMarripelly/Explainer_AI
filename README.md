@@ -544,22 +544,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📚 Citation
-
-If you use this project in your research or application, please cite:
-
-```bibtex
-@software{multimodal_rag_2024,
-  author = {Your Name},
-  title = {Multi-Modal RAG Pipeline for Policy Document Analysis},
-  year = {2024},
-  url = {https://github.com/yourusername/multimodal-rag-pipeline}
-}
-```
-
----
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Models**: 
   - [BAAI/bge-large-en-v1.5](https://huggingface.co/BAAI/bge-large-en-v1.5) for embeddings
@@ -570,8 +555,6 @@ If you use this project in your research or application, please cite:
   - [LangChain](https://python.langchain.com/) for RAG orchestration
   - [Unstructured.io](https://unstructured.io/) for document processing
   - [ChromaDB](https://www.trychroma.com/) for vector storage
-
-- **Data**: Sample document courtesy of [Data Source Attribution]
 
 ---
 
